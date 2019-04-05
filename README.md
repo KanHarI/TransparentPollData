@@ -4,7 +4,7 @@ A python3 API for the transparent poll data: https://drive.google.com/drive/fold
 # Requirements:
 pandas: `py -3 -m pip install pandas`
 
-# Running demographics tests:
+# Running demographics analysis:
 `py -3 -m Demographics --gender` for gender analysis of voters for each party
 
 `py -3 -m Demographics --gender --age` for gender and age analysis of voters for each party
