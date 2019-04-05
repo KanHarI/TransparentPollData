@@ -9,4 +9,5 @@ pandas: `py -3 -m pip install pandas`
 `py -3 -m Demographics --gender --age` for gender and age analysis of voters for each party
 Running with the `--pop-w` flag runs analysis after correcting for sample bias
 `py -3 -m Demographics --gender --pop-w` will return analysis after sampling correction.
+Run `py -3 -m Demographics --help` for full parameters list
 etc...
